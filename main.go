@@ -15,7 +15,7 @@ func Pallete() {
 		cyan    = "0x00FFff"
 		crimson = "0xdC143c"
 	)
-	fmt.Printf("blue = %s, cyan = %s, crimsom = %s\n", blue, cyan, crimson)
+	fmt.Printf("blue = %s, cyan = %s, crimson = %s\n", blue, cyan, crimson)
 }
 
 func IPAppender() {
